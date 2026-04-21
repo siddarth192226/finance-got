@@ -1,0 +1,12 @@
+XT
+Copy
+
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+yfinance
+pypdf
+requests
+ 

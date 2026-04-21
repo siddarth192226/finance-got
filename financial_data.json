@@ -1,0 +1,50 @@
+[
+  {
+    "instruction": "What is an emergency fund and how much should I save?",
+    "response": "An emergency fund is a dedicated savings reserve covering 3–6 months of living expenses. For example, if your monthly expenses are $2,500, your target emergency fund is $15,000. Start by saving a small fixed amount each month until you reach this target."
+  },
+  {
+    "instruction": "How do I reduce my debt-to-income ratio?",
+    "response": "To reduce your debt-to-income (DTI) ratio: (1) Pay down high-interest debt first using the avalanche method. (2) Avoid taking on new debt. (3) Increase your income through side work or negotiating a raise. A DTI below 36% is considered healthy by most lenders."
+  },
+  {
+    "instruction": "I earn $4000 per month and spend $3200. How long to save $10,000?",
+    "response": "Your monthly surplus is $800 ($4,000 - $3,200). To save $10,000 at $800/month will take approximately 12.5 months. Consider automating a $800 transfer to savings on payday to stay consistent."
+  },
+  {
+    "instruction": "What is a good savings ratio?",
+    "response": "A savings ratio of 20% or more is generally considered healthy (the 50/30/20 rule). This means saving $1 of every $5 earned. If your income is $5,000/month, aim to save at least $1,000/month. Even starting at 10% and increasing gradually is a strong strategy."
+  },
+  {
+    "instruction": "Should I invest or pay off debt first?",
+    "response": "Compare the interest rate on your debt to expected investment returns. If your debt interest rate exceeds 7%, prioritise paying it off first. If it is below 4%, investing while making minimum debt payments may yield better long-term results. For rates in between, a balanced approach is advisable."
+  },
+  {
+    "instruction": "What investment options suit a low risk tolerance?",
+    "response": "For low risk tolerance, consider: (1) High-interest savings accounts or term deposits. (2) Government bonds or bond ETFs. (3) Diversified index funds with a conservative allocation (e.g. 30% equities, 70% bonds). Avoid speculative assets like individual stocks, crypto, or leveraged products."
+  },
+  {
+    "instruction": "How do I start saving for retirement in my 30s?",
+    "response": "Starting in your 30s gives you approximately 30 years of compound growth. Key steps: (1) Maximise employer superannuation/401k contributions, especially if employer-matched. (2) Open a low-fee index fund account. (3) Aim to save 15% of gross income for retirement. (4) Increase contributions by 1% each year."
+  },
+  {
+    "instruction": "What does a monthly financial strategy look like for someone saving for a home?",
+    "response": "A home-saving strategy should include: (1) Calculate your target deposit (typically 20% of property value). (2) Open a dedicated high-interest savings account. (3) Automate monthly transfers equal to your monthly surplus. (4) Reduce discretionary spending to increase surplus. (5) Monitor property market trends and set a realistic purchase timeline."
+  },
+  {
+    "instruction": "My monthly surplus is negative. What should I do?",
+    "response": "A negative surplus means you are spending more than you earn. Immediate steps: (1) List all expenses and identify non-essential items to cut. (2) Negotiate or refinance any high-interest debt. (3) Explore additional income sources. (4) Set a strict monthly budget using the envelope or zero-based budgeting method. Stabilising cash flow is the priority before any investment activity."
+  },
+  {
+    "instruction": "What is the avalanche method for debt repayment?",
+    "response": "The avalanche method prioritises paying off debts with the highest interest rate first while making minimum payments on all others. This minimises total interest paid over time. For example, if you have a 20% credit card and a 6% car loan, focus extra payments on the credit card first. Once it is paid off, redirect those payments to the next highest-rate debt."
+  },
+  {
+    "instruction": "How much of my income should go to investments?",
+    "response": "A common guideline is to invest 15–20% of net income once an emergency fund is established and high-interest debt is cleared. For a moderate risk profile, consider a diversified portfolio: 60% equities (broad index funds), 30% bonds, 10% alternative assets. Adjust the allocation based on your age and time horizon."
+  },
+  {
+    "instruction": "What financial metrics should I track monthly?",
+    "response": "Key monthly metrics to track: (1) Monthly surplus (income minus expenses). (2) Savings ratio (surplus / income × 100). (3) Debt-to-income ratio (total monthly debt payments / gross income). (4) Emergency fund progress (current savings / 6-month expense target). (5) Net worth (total assets minus total liabilities). Review these each month to monitor progress toward your financial goals."
+  }
+]
